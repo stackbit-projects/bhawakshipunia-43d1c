@@ -6,9 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Bhawakshi Punia.'
     content: |
-      Ph. D. Student at IISER-Pune
-
-      Prime Minister's Research Fellow
+      Ph. D. Student at IISER-Pune | Prime Minister's Research Fellow
   - section_id: about
     type: section_content
     title: About
